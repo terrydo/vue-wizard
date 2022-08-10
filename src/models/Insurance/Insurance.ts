@@ -1,5 +1,3 @@
-export type InsuranceType = 'standard' | 'safe' | 'super-safe';
-
 export interface InsuranceLocation {
   id: string;
   name: string;
